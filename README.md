@@ -25,25 +25,13 @@
 ---
 
 ### 📺 Latest Websites
-- [Personal Portfolio](https://nithins.me)
-<img alt="tempCloud" width="500px" src="https://nithins.me/assets/nithins.png" />
-<br />
+
 <br />
 
-- [tempCloud](https://tempcloud.ml)
-<img alt="tempCloud" width="500px" src="https://nithins.me/assets/temp.png" />
-<br />
-<br />
-
-- [Nith's URL Shortner](https://nith.ml)
-<img alt="tempCloud" width="500px" src="https://nithins.me/assets/nith.png" />
-<br />
-<br />
-
-- [R Hospitality Inc.](https://rhinc.in)
-<img alt="tempCloud" width="500px" src="https://nithins.me/assets/rh.png" />
-<br />
-<br />
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="2406" alt="Web Image" src="https://nithins.me/assets/nithins.png">  [Personal Portfolio](https://nithins.me) |  <img width="2406" alt="Web Image" src="https://nithins.me/assets/temp.png"> [tempCloud](https://tempcloud.ml) |
+|<img width="2406" alt="Web Image" src="https://nithins.me/assets/nith.png">  [Nith's URL Shortner](https://nith.ml) |  <img width="2406" alt="Web Image" src="https://nithins.me/assets/rh.png"> [R Hospitality Inc.](https://rhinc.in) |
 
 - And more ..
 ---
