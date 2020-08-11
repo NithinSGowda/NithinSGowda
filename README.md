@@ -14,7 +14,7 @@
 
 ### Cloud Engineering Intern 
 ##### Newstar CLoud Services 
-###### March 2020 - Present
+###### March 2020 - August 2020
 
 <br />
 
