@@ -1,4 +1,4 @@
-![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/o.gif)
+![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/raw/master/assets/intro.gif)
 
 
 <br />
