@@ -1,12 +1,5 @@
-### Hi there, I'm Nithin S 👋
-##### PES University, Bengaluru
+![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/intro.gif)
 
-## I'm a Web Developer !
-- 🔭 I’m currently working on a Node JS project !
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with enthusiasts to join my latest open source project
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to work on Backend Frameworks
 
 <br />
 
