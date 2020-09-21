@@ -23,11 +23,11 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="2406" alt="Web Image" src="https://nithins.me/OLD/assets/nithins.png">  [Personal Portfolio](https://nithins.me) |  <img width="2406" alt="Web Image" src="https://nithins.me/OLD/assets/temp.png"> [tempCloud](https://tempcloud.ml) |
+|<img width="2406" alt="Web Image" src="https://nithins.me/images/portfolio.png">  [Personal Portfolio](https://nithins.me) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/tempcloud.png"> [tempCloud](https://tempcloud.ml) |
 |||
 |||
 |||
-|<img width="2406" alt="Web Image" src="https://nithins.me/OLD/assets/nith.png">  [Nith's URL Shortner](https://nith.ml) |  <img width="2406" alt="Web Image" src="https://nithins.me/OLD/assets/rh.png"> [R Hospitality Inc.](https://rhinc.in) |
+|<img width="2406" alt="Web Image" src="https://nithins.me/images/nith.png">  [Nith's URL Shortner](https://nith.ml) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/nithext.png"> [URL Shortner Extension](https://nith.ml/extension) |
 
 - And more ..
 ---
