@@ -17,7 +17,7 @@
 
 ---
 
-### 📺 Latest Websites
+### 📺 Latest Projects
 
 <br />
 
@@ -28,6 +28,14 @@
 |||
 |||
 |<img width="2406" alt="Web Image" src="https://nithins.me/images/nith.png">  [Nith's URL Shortner](https://nith.ml) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/nithext.png"> [URL Shortner Extension](https://nith.ml/extension) |
+|||
+|||
+|||
+|<img width="2406" alt="Web Image" src="https://nithins.me/images/gmbot.png">  [Google Meet Bot](https://nith.ml/gmbot) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/teams.png"> [MS Teams Bot](https://nith.ml/bot) |
+|||
+|||
+|||
+|<img width="2406" alt="Web Image" src="https://nithins.me/images/nalert.png">  [N-Alert Extension](https://nith.ml/nalert) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/rh.png"> [RH Inc](https://rhinc.in) |
 
 - And more ..
 ---
