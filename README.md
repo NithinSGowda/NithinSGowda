@@ -1,4 +1,4 @@
-![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/raw/master/assets/intro2.gif)
+![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/raw/master/assets/intro4.gif)
 
 
 <br />
@@ -17,14 +17,14 @@
 
 ---
 
-### 📺 Latest Projects
+<!-- ### 📺 Latest Projects
 
 <br />
 
 
 - And more ..
 ---
-
+ -->
 <br />
 
 <br />
