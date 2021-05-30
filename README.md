@@ -1,19 +1,19 @@
-![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/raw/master/assets/intro.gif)
+![Hi, I'm Nithin](https://github.com/NithinSGowda/NithinSGowda/raw/master/assets/intro2.gif)
 
 
 <br />
 
 ## 📕 Experience
 
-### Cloud Engineering Intern 
-##### Newstar CLoud Services 
-###### March 2020 - August 2020
+### Tech Lead Intern
+##### Acumensa Technologies Pvt. Ltd
+###### March 2021 - May 2021
 
 <br />
 
-### Web Developer
-##### R Hospitality Inc.
-###### June 2020 - Present
+### Cloud Engineering Intern 
+##### Newstar CLoud Services 
+###### March 2020 - August 2020
 
 ---
 
@@ -21,43 +21,11 @@
 
 <br />
 
-| | |
-|:-------------------------:|:-------------------------:|
-|<img width="2406" alt="Web Image" src="https://nithins.me/images/portfolio.png">  [Personal Portfolio](https://nithins.me) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/tempcloud.png"> [tempCloud](https://tempcloud.ml) |
-|||
-|||
-|||
-|<img width="2406" alt="Web Image" src="https://nithins.me/images/nith.png">  [Nith's URL Shortner](https://nith.ml) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/nithext.png"> [URL Shortner Extension](https://nith.ml/extension) |
-|||
-|||
-|||
-|<img width="2406" alt="Web Image" src="https://nithins.me/images/gmbot.png">  [Google Meet Bot](https://nith.ml/gmbot) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/teams.png"> [MS Teams Bot](https://nith.ml/bot) |
-|||
-|||
-|||
-|<img width="2406" alt="Web Image" src="https://nithins.me/images/nalert.png">  [N-Alert Extension](https://nith.ml/nalert) |  <img width="2406" alt="Web Image" src="https://nithins.me/images/rh.png"> [RH Inc](https://rhinc.in) |
 
 - And more ..
 ---
 
 <br />
-
-<!-- ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br /> -->
 
 <br />
 
@@ -82,7 +50,7 @@
 <br />
 
 [website]: https://nithins.me
-[twitter]: https://nith.ml/twitter
+[twitter]: https://link.nithins.me/twitter
 [youtube]: https://youtube.com/TechinStudio
-[instagram]: https://nith.ml/insta
-[linkedin]: https://nith.ml/linkedin
+[instagram]: https://link.nithins.me/insta
+[linkedin]: https://link.nithins.me/linkedin
