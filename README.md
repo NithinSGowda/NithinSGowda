@@ -41,12 +41,12 @@
 <br />
 
 
-<img alt="Nithin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NithinSGowda&show_icons=true&hide_border=true" />
+<img alt="Nithin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NithinSGowda&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&cache_seconds=1800&include_all_commits=true" />
 
 <br />
 
 
-<img alt="Nithin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinSGowda" />
+<img alt="Nithin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinSGowda&theme=chartreuse-dark&hide_border=true&layout=compact" />
 
 <br />
 
